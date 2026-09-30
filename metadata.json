@@ -1,0 +1,6 @@
+{
+  "name": "HEXA-R — Private On-Device AI Copilot for RTL Engineering",
+  "description": "Offline-first AI engineering copilot for Verilog and SystemVerilog development, optimized for Snapdragon HP PCs with Qualcomm Hexagon NPU acceleration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
